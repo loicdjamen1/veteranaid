@@ -1,14 +1,14 @@
 # VeteranAid
 
-> VeteranAid is a fictional company. Its customers, people and figures are invented for this project. Real organisations are named only as competitors or as the source of real-world rules (VA, DOL, state veterans' departments). All data in this repository is fake.
+> VeteranAid is a fictional company. Its customers, people and figures are invented for this project. Real organisations are named only as competitors or as the source of real-world rules (DOL, state veterans' departments). All data in this repository is fake.
 
-**VeteranAid helps low-income veterans who are homeless or about to lose their home get the VA benefits they have earned, so they can keep or find a stable home.**
+**VeteranAid helps low-income veterans who are homeless or about to lose their home get the benefits they have earned, so they can keep or find a stable home.**
 
 Many of these veterans never file a claim, or give up partway, because they have no fixed address, no phone and no copy of their discharge papers. State offices and veterans service organisations help for free, but they wait for a veteran to book an appointment. VeteranAid goes to the veterans who never will. Outreach and a chatbot open at any hour make first contact. A real caseworker then stays with each veteran through eligibility, documents, the claim and housing.
 
-Veterans pay nothing. The work is funded by federal grants, mainly the VA's Supportive Services for Veteran Families (SSVF) grant and a smaller Department of Labor HVRP grant.
+Veterans pay nothing. The work is funded by federal grants, mainly the Supportive Services for Veteran Families (SSVF) grant and a smaller Department of Labor HVRP grant.
 
-**Success metric:** the share of newly enrolled eligible veterans with a complete VA benefits claim filed within 30 days of intake, tracked separately for each state.
+**Success metric:** the share of newly enrolled eligible veterans with a complete benefits claim filed within 30 days of intake, tracked separately for each state.
 
 ## What it does
 
@@ -33,7 +33,7 @@ There are two customer organisations, VeteranAid Maryland and VeteranAid Virgini
 
 | Data | Why it matters |
 | --- | --- |
-| Veteran profiles: name, date of birth, contact details, VA file number, housing status | Identifies vulnerable people |
+| Veteran profiles: name, date of birth, contact details,  file number, housing status | Identifies vulnerable people |
 | Eligibility and income checks | Financial information |
 | Uploaded documents: DD-214s, IDs, pay stubs, leases, eviction notices | Some of the most sensitive documents anyone holds |
 | Medical letters | Health information |
